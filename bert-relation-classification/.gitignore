@@ -1,0 +1,15 @@
+.*
+!/.gitignore
+*.pyc 
+scripts
+__pycache__/*
+__pycache__
+.vscode/*
+.vscode
+.data/*
+.data/*
+.data/*
+.datset
+.datset/*
+.datset1
+.datset1/*
